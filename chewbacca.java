@@ -30,10 +30,11 @@ public class chewbacca {
        * so min value b/w 4 and 5 will not be replaced
        * and 4th one will remain the same 
        * edge cases will be seen while coding 
-       * to analyse earch and every number 1 st to last the int should be converted to string that's why we will use stringbuilder form     */
+       * to analyse earch and every number 1 st to last the int should be converted to string that's why we will use stringbuilder form
+       */
       
     }
     System.out.println(req.toString());
     sc.close();
-  }
+  }// prblm link ;-> https://codeforces.com/contest/514/problem/A
 }
