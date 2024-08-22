@@ -20,5 +20,5 @@ public class beautiful_matrix {
    int ans=Math.abs(row-2)+Math.abs(column-2);
    System.out.println(ans);
    sc.close();
-  }
+  }// prblm link :-> https://codeforces.com/problemset/problem/263/A
 }
