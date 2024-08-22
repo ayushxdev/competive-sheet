@@ -18,6 +18,6 @@ public class BitsCP {
         sc.close();
      }
 }
-//https://codeforces.com/problemset/problem/282/A
+//https://codeforces.com/problemset/problem/282/A (prblm link)
 // the first prblm link
 // it's the 1st prblm of 180 day cp journey ..let's go
