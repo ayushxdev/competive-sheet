@@ -21,3 +21,4 @@ public class BitsCP {
 //https://codeforces.com/problemset/problem/282/A (prblm link)
 // the first prblm link
 // it's the 1st prblm of 180 day cp journey ..let's go
+//https://youtu.be/SWkCtcnaQ70?si=ZK3YkwMV4BhOwyBZ( tutorial)
