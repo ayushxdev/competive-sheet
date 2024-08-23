@@ -1,3 +1,6 @@
+//4th prblm of cp(soft drink)
+// prblm link :-> https://codeforces.com/problemset/problem/151/A
+// yt tutorial link ->
 import java.util.Scanner;
 
 public class SoftDrinking {
